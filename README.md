@@ -84,9 +84,9 @@ Docker • Git • Cloudflare • Prisma • PostgreSQL • MySQL • Figma • 
 
 ## 🔗 Connect
 
-* 🌐 Portfolio: [https://your-portfolio.com](https://jevguio.com)
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/john-vincent-guioguio-21a5201b6/)
-* 📧 Email: [your@email.com](mailto:jevguio@gmail.com)
+* 🌐 Portfolio: [(https://jevguio.com](https://jevguio.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/john-vincent-guioguio](https://www.linkedin.com/in/john-vincent-guioguio-21a5201b6/)
+* 📧 Email: [jevguio@gmail.com](mailto:jevguio@gmail.com)
 
 ---
 
