@@ -146,9 +146,9 @@ Idea → Research → System Design → UI/UX → Development → Testing → De
 ## 🔗 CONNECT SYSTEM
 
 <p align="center">
-<a href="https://jevguio.com">🌐 System Hub</a> • 
+<a href="https://jevguio.com">🌐 Portfolio </a> • 
 <a href="https://www.linkedin.com/in/john-vincent-guioguio-21a5201b6/">💼 Professional Network</a> • 
-<a href="mailto:jevguio@gmail.com">📡 Direct Contact</a>
+<a href="mailto:jevguio@gmail.com">📧 Direct Contact</a>
 </p>
 
 ---
