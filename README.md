@@ -128,4 +128,4 @@ MIT License
 
 ## 👤 Profile
 ![Profile](https://githubcard.com/jevguio.svg)
-> Built with precision by **Jev ⚡**
+> Built with precision by **[Jevguio](https://jevguio.com) ⚡**
