@@ -120,15 +120,15 @@ Idea → Research → System Design → UI/UX → Development → Testing → De
   <tr>
     <td align="center">
       <img src="https://firebasestorage.googleapis.com/v0/b/studio-1501173365-d6b23.firebasestorage.app/o/users%2FouzSgZt2C7amqDj0XI3aijl3uew1%2Fimages%2F5fa064c1-c36c-414a-9b56-815e65eee741-Screenshot%202026-03-14%20010359.png?alt=media&token=294fc906-eab1-465e-b7b0-dc547f06e707" width="100%"/>
-      <br/><b>Portfolio System</b>
+      <br/><a href="https://jevguio.com"><b>Portfolio System</b><a/>
     </td>
     <td align="center">
       <img src="https://firebasestorage.googleapis.com/v0/b/studio-1501173365-d6b23.firebasestorage.app/o/users%2FouzSgZt2C7amqDj0XI3aijl3uew1%2Fimages%2Fece6a615-bf9a-417f-ae20-6c50eb209eaa-Screenshot%202026-02-12%20152927.png?alt=media&token=e90a2ab9-be70-4f98-9401-6842d006e836" width="100%"/>
-      <br/><b>POS System</b>
+      <br/><a href="https://storedemo.jevguio.com"><b>POS System</b><a/>
     </td>
     <td align="center">
       <img src="https://firebasestorage.googleapis.com/v0/b/studio-1501173365-d6b23.firebasestorage.app/o/users%2FouzSgZt2C7amqDj0XI3aijl3uew1%2Fimages%2F24bdfdfe-4d4d-46b6-aad6-0ad8845f9207-Screenshot%202026-03-27%20213215.png?alt=media&token=63761244-e1a7-4dfe-a346-549d16f56728" width="100%"/>
-      <br/><b>Menu System</b>
+      <br/><a href="https://mesamenu.jevguio.com"><b>Menu System</b></a>
     </td>
   </tr>
 </table>
